@@ -9,4 +9,6 @@ node_modules/
 .DS_Store
 *.db
 *.sqlite
-backend/models/*.onnx
+*.onnx
+minilm_onnx/
+finbert_onnx/
