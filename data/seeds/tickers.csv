@@ -1,0 +1,57 @@
+symbol,name,aliases
+AAPL,Apple,apple inc
+MSFT,Microsoft,msft
+GOOGL,Google,alphabet
+AMZN,Amazon,amzn
+NVDA,Nvidia,nvda
+TSLA,Tesla,tsla
+META,Meta,facebook
+BRK.B,Berkshire,berkshire hathaway
+V,Visa,visa
+JPM,JPMorgan,jpmorgan chase|jp morgan
+WMT,Walmart,walmart
+MA,Mastercard,mastercard
+PG,Procter,procter gamble|pg
+XOM,Exxon,exxonmobil|exxon mobil
+JNJ,Johnson,johnson johnson|jnj
+HD,Home Depot,homedepot|home depot
+CVX,Chevron,chevron
+MRK,Merck,merck
+ABBV,AbbVie,abbvie
+KO,Coca-Cola,coca cola|coke
+PEP,Pepsi,pepsico|pepsi
+COST,Costco,costco
+AVGO,Broadcom,broadcom
+LLY,Eli Lilly,lilly|eli lilly
+TMO,Thermo Fisher,thermo fisher
+MCD,McDonald's,mcdonalds|mcdonald
+CSCO,Cisco,cisco
+ACN,Accenture,accenture
+ABT,Abbott,abbott
+ADBE,Adobe,adobe
+NKE,Nike,nike
+TXN,Texas Instruments,texas instruments|ti
+DHR,Danaher,danaher
+CRM,Salesforce,salesforce
+VZ,Verizon,verizon
+NEE,NextEra,nextera
+WFC,Wells Fargo,wells fargo
+BMY,Bristol Myers,bristol myers
+UPS,UPS,united parcel
+PM,Philip Morris,philip morris
+HON,Honeywell,honeywell
+LOW,Lowe's,lowes|lowe
+RTX,Raytheon,raytheon
+UNP,Union Pacific,union pacific
+QCOM,Qualcomm,qualcomm
+INTC,Intel,intel
+AMD,AMD,advanced micro
+ORCL,Oracle,oracle
+IBM,IBM,ibm
+BA,Boeing,boeing
+SPY,S&P 500,spy|sp500|s&p500
+QQQ,Nasdaq,qqq|nasdaq100
+DIA,Dow Jones,dia|djia|dow
+IWM,Russell,iwm|russell2000
+VOO,Vanguard S&P,voo
+VTI,Vanguard Total,vti

@@ -1,0 +1,11 @@
+https://www.cnbc.com/id/10000664/device/rss/rss.html
+https://www.cnbc.com/id/15839069/device/rss/rss.html
+https://feeds.marketwatch.com/marketwatch/marketpulse/
+https://feeds.marketwatch.com/marketwatch/topstories/
+https://www.investing.com/rss/news_285.rss
+https://www.investing.com/rss/stock_profiles.rss
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664
+https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+https://www.fool.com/investing-news.rss
+https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline
