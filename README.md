@@ -1,3 +1,5 @@
+![BullBear Dashboard](bullbear_dashboard.jpg)
+
 # BullBear Debates
 
 A real-time market sentiment engine that processes Reddit and RSS streams to analyze financial discussions and classify stock sentiment.
@@ -107,5 +109,3 @@ ONNX models are excluded from the repository due to file size
 Ticker extraction uses a whitelist to avoid false positives
 Continuous aggregates enable fast time-series queries
 Vector embeddings stored in pgvector for similarity search
-
-![BullBear Dashboard](bullbear_dashboard.jpg)
